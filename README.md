@@ -1,4 +1,4 @@
-<h1>CLONE UI - C6 BANK</h1>
+<h1 align="center">CLONE UI - C6 BANK</h1>
 
 <p align="center">
   <img alt="Happy" src="github/home.PNG" width="100%">
