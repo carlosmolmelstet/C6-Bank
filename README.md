@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Layout WEB responsivo.
 
-[Acessar Layout no Figma](https://www.figma.com/file/rDlr0tAUmht1g2YtALuh8k/Untitled?node-id=1%3A24)
+[Acessar Layout no Figma](https://www.figma.com/proto/rDlr0tAUmht1g2YtALuh8k/Untitled?page-id=1%3A24&node-id=1%3A43&viewport=631%2C620%2C0.843389630317688&scaling=scale-down-width)
 
 ## 🦾 Desafios
 
